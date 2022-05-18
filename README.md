@@ -1,2 +1,4 @@
 # talle1_repo_es
-Mi primer repo creado
+Mi primer repo creado 
+
+Edito desde STS
